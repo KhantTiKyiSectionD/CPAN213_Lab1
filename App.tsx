@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import {
   SafeAreaView,
@@ -78,8 +77,8 @@ const styles = StyleSheet.create({
     padding: 15,
     backgroundColor: 'white',
     borderRadius: 10,
-    elevation: 2,                 // Android shadow
-    shadowColor: '#000',          // iOS shadow
+    elevation: 2,          
+    shadowColor: '#000', 
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
     shadowRadius: 2,
