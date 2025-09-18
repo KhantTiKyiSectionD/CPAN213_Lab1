@@ -1,0 +1,18 @@
+# Node / React Native
+node_modules/
+npm-debug.log*
+yarn-error.log*
+android/.gradle/
+android/.idea/
+android/**/build/
+android/app/.cxx/
+*.iml
+ios/build/
+ios/Pods/
+*.xcuserdatad/
+*.xcworkspace
+.DS_Store
+.env
+.expo/
+coverage/
+.vscode/
