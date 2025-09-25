@@ -20,5 +20,5 @@ ios/Pods/
 .expo/
 coverage/
 .vscode/
-
+NewerProject/
 android/app/debug.keystore
