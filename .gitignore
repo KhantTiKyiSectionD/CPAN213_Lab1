@@ -13,6 +13,10 @@ ios/Pods/
 *.xcworkspace
 .DS_Store
 .env
+.env.local
+.env.development
+.env.production
+.env.staging
 .expo/
 coverage/
 .vscode/
